@@ -1,0 +1,12 @@
+
+
+
+
+#show_number{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+  }
+  body{
+      background-color:rgb(17, 17, 208);
+    }
